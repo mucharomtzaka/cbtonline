@@ -1,0 +1,101 @@
+ INFO  Accepting connections at http://localhost:5173
+ HTTP  4/18/2026 11:21:06 AM ::1 GET /
+ HTTP  4/18/2026 11:21:06 AM ::1 Returned 200 in 12 ms
+ HTTP  4/18/2026 11:21:08 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:08 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:09 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:09 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:33 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:33 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:33 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:33 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:33 AM ::1 Returned 200 in 5 ms
+ HTTP  4/18/2026 11:21:33 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:33 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:33 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /login
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:21:34 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:21:34 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:22:09 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:09 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:09 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:09 AM ::1 Returned 200 in 6 ms
+ HTTP  4/18/2026 11:22:09 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:09 AM ::1 Returned 200 in 6 ms
+ HTTP  4/18/2026 11:22:09 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:09 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:10 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:10 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:10 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:10 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:10 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:10 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:10 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:10 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:11 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:11 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:11 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:11 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:22:11 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:11 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:11 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:11 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:12 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:12 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:12 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:12 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:12 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:12 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:12 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:12 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /login
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /assets/index-CVDMEN4J.js
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 0 ms
+ HTTP  4/18/2026 11:22:20 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:22:20 AM ::1 Returned 200 in 2 ms
+
+ INFO  Gracefully shutting down. Please wait...

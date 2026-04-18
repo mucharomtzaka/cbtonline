@@ -1,0 +1,15 @@
+
+> frontend@0.0.0 dev
+> vite
+
+
+  VITE v8.0.8  ready in 97 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+11:17:14 AM [vite] (client) hmr update /src/main.tsx
+11:17:14 AM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:17:14 AM [vite] (client) page reload src/main.tsx
+11:17:23 AM [vite] (client) hmr update /src/main.tsx
+11:17:23 AM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:17:23 AM [vite] (client) page reload src/main.tsx

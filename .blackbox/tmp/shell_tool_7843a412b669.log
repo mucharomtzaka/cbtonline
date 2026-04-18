@@ -1,0 +1,27 @@
+ INFO  Accepting connections at http://localhost:5173
+ HTTP  4/18/2026 1:38:14 PM ::1 GET /
+ HTTP  4/18/2026 1:38:14 PM ::1 Returned 200 in 15 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /question-banks
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /assets/index-BtNhwWCC.js
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /assets/index-51U2CpAx.css
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 200 in 7 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /favicon.svg
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /question-banks
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 1 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /assets/index-51U2CpAx.css
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /assets/index-BtNhwWCC.js
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 1 ms
+ HTTP  4/18/2026 1:38:52 PM ::1 GET /favicon.svg
+ HTTP  4/18/2026 1:38:52 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:42:04 PM ::1 GET /assets/index-51U2CpAx.css
+ HTTP  4/18/2026 1:42:04 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:42:04 PM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 1:42:04 PM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 1:44:43 PM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 1:44:43 PM ::1 Returned 200 in 7 ms
+
+ INFO  Gracefully shutting down. Please wait...

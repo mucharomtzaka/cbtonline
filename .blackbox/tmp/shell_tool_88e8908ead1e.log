@@ -1,0 +1,38 @@
+npm warn exec The following package was not found and will be installed: serve@14.2.6
+ INFO  Accepting connections at http://localhost:5173
+ HTTP  4/18/2026 11:19:24 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:24 AM ::1 Returned 404 in 19 ms
+ HTTP  4/18/2026 11:19:24 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:24 AM ::1 Returned 404 in 4 ms
+ HTTP  4/18/2026 11:19:24 AM ::1 GET /favicon.ico
+ HTTP  4/18/2026 11:19:24 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:43 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:43 AM ::1 Returned 404 in 2 ms
+ HTTP  4/18/2026 11:19:43 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:43 AM ::1 Returned 404 in 2 ms
+ HTTP  4/18/2026 11:19:44 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:44 AM ::1 Returned 404 in 2 ms
+ HTTP  4/18/2026 11:19:44 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:44 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:47 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:47 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:47 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:47 AM ::1 Returned 404 in 2 ms
+ HTTP  4/18/2026 11:19:51 AM ::1 GET /
+ HTTP  4/18/2026 11:19:51 AM ::1 Returned 200 in 7 ms
+ HTTP  4/18/2026 11:19:51 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:51 AM ::1 Returned 404 in 2 ms
+ HTTP  4/18/2026 11:19:51 AM ::1 GET /assets/index-DvKmiMML.js
+ HTTP  4/18/2026 11:19:51 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:19:51 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:19:51 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:19:52 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:52 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:52 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:52 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:53 AM ::1 GET /login
+ HTTP  4/18/2026 11:19:53 AM ::1 Returned 404 in 1 ms
+ HTTP  4/18/2026 11:19:53 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:19:53 AM ::1 Returned 404 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...

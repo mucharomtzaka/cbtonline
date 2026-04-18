@@ -1,0 +1,73 @@
+ INFO  Accepting connections at http://localhost:5173
+ HTTP  4/18/2026 11:23:33 AM ::1 GET /
+ HTTP  4/18/2026 11:23:33 AM ::1 Returned 200 in 10 ms
+ HTTP  4/18/2026 11:23:46 AM ::1 GET /login
+ HTTP  4/18/2026 11:23:46 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:23:46 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:23:46 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:23:46 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:23:46 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:23:46 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:23:46 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:23:47 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:23:47 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:23:48 AM ::1 GET /login
+ HTTP  4/18/2026 11:23:48 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:23:48 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:23:48 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:48 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:23:48 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:23:48 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:23:48 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:23:48 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:23:48 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /login
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 4 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /login
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 2 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:23:53 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:23:53 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:18 AM ::1 GET /login
+ HTTP  4/18/2026 11:24:18 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:18 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:24:18 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:18 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:24:18 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:18 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:24:18 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:18 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:24:18 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:20 AM ::1 GET /login
+ HTTP  4/18/2026 11:24:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:20 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:24:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:20 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:24:20 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:24:20 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:24:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:20 AM ::1 GET /favicon.svg
+ HTTP  4/18/2026 11:24:20 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:30 AM ::1 GET /
+ HTTP  4/18/2026 11:24:30 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:30 AM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  4/18/2026 11:24:30 AM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 11:24:30 AM ::1 GET /assets/index-CmBsp_Ox.js
+ HTTP  4/18/2026 11:24:30 AM ::1 Returned 200 in 1 ms
+ HTTP  4/18/2026 11:24:30 AM ::1 GET /assets/index-DLgjNNDl.css
+ HTTP  4/18/2026 11:24:30 AM ::1 Returned 200 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
